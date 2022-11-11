@@ -144,7 +144,6 @@ def main():
     rbot = rMonitor()
 
     rbot.monitor_and_reply(SUBREDDIT_NAME)
-    
 
 
 if __name__ == '__main__':
